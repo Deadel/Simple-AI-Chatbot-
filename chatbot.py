@@ -1,6 +1,6 @@
 import nltk
 from nltk.chat.util import Chat, reflections
-import random
+
 
 nltk.download('punkt')
 
